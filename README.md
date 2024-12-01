@@ -5,6 +5,33 @@
 
 ---
 
+
+## 🌱 **Current Focus**  
+- Developing **dynamic web applications** for businesses  
+- Exploring advanced **backend architectures**  
+- Building **self-improvement and motivational content** for an Instagram page  
+
+---
+
+## 💼 **Projects**  
+### 🌐 **E-Commerce Website**  
+- Fully responsive store with **real-time cart** and **payment integration**.  
+
+### 🍴 **Zomato Clone**  
+- Created a food delivery app with React, Redux, and RTK Query.  
+
+### 🎥 **IMDB Clone**  
+- A movie database app leveraging **React** and **Tailwind CSS**.  
+
+---
+
+## 📫 **Connect With Me**  
+📧 [princenishad904@gmail.com](mailto:princenishad904@gmail.com)  
+📱 +91-9936752250  
+🌍 **Location:** Kushinagar, Uttar Pradesh  
+
+---
+
 ## 🛠️ **Tech Stack**  
 
 ### **Frontend**  
@@ -31,32 +58,6 @@
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)  
   ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-
----
-
-## 🌱 **Current Focus**  
-- Developing **dynamic web applications** for businesses  
-- Exploring advanced **backend architectures**  
-- Building **self-improvement and motivational content** for an Instagram page  
-
----
-
-## 💼 **Projects**  
-### 🌐 **E-Commerce Website**  
-- Fully responsive store with **real-time cart** and **payment integration**.  
-
-### 🍴 **Zomato Clone**  
-- Created a food delivery app with React, Redux, and RTK Query.  
-
-### 🎥 **IMDB Clone**  
-- A movie database app leveraging **React** and **Tailwind CSS**.  
-
----
-
-## 📫 **Connect With Me**  
-📧 [princenishad904@gmail.com](mailto:princenishad904@gmail.com)  
-📱 +91-9936752250  
-🌍 **Location:** Kushinagar, Uttar Pradesh  
 
 ---
 
